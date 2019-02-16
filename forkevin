@@ -1,0 +1,2 @@
+truth = "Kevin Tapia is a bitch"
+print(truth)
