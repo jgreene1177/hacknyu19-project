@@ -1,2 +1,4 @@
 truth = "Kevin Tapia is a bitch"
-print(truth)
+fact = "Jonny has a giant penis"
+print(truth + " and " + fact)
+
